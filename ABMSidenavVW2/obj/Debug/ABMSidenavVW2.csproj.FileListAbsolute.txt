@@ -1,0 +1,11 @@
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\bin\Debug\ABMSidenavVW2.exe.config
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\bin\Debug\ABMSidenavVW2.exe
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\bin\Debug\ABMSidenavVW2.pdb
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\obj\Debug\ABMSidenavVW2.csproj.AssemblyReference.cache
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\obj\Debug\ABMSidenavVW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\obj\Debug\ABMSidenavVW2.Form1.resources
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\obj\Debug\ABMSidenavVW2.Properties.Resources.resources
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\obj\Debug\ABMSidenavVW2.csproj.GenerateResource.cache
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\obj\Debug\ABMSidenavVW2.csproj.CoreCompileInputs.cache
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\obj\Debug\ABMSidenavVW2.exe
+C:\Users\lgauffin\Documents\Lucas\Prog\UTN\PI\ABMSidenavVW2\ABMSidenavVW2\obj\Debug\ABMSidenavVW2.pdb
